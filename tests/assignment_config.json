@@ -1,0 +1,17 @@
+{
+  "notebooks": [
+    "notebooks/module14_project_refinement_data_management_analytics.ipynb"
+  ],
+  "required_files": [],
+  "forbidden_files": [
+    ".env"
+  ],
+  "execute_notebooks": true,
+  "requires_database": false,
+  "execution_timeout_seconds": 900,
+  "require_marked_code_outputs": true,
+  "check_markdown_placeholders": true,
+  "min_marked_code_cells": {
+    "notebooks/module14_project_refinement_data_management_analytics.ipynb": 0
+  }
+}
