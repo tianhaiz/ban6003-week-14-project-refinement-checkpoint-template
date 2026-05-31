@@ -21,10 +21,10 @@ Create your own GitHub repository from the template with **Use this template > C
 
 You may run the lab in either environment:
 
-- **Recommended for beginners:** GitHub Codespaces from your own repository.
-- **Local option:** clone your own repository, activate the `ban6003` conda environment, install `requirements.txt`, and run JupyterLab locally.
+- **Main path, recommended for beginners:** GitHub Codespaces from your own repository.
+- **Optional path for technically experienced students:** clone your own repository, activate the `ban6003` conda environment, install `requirements.txt`, and run JupyterLab locally.
 
-Submit your GitHub repository link or a completed ZIP through Canvas.
+Submit your GitHub repository link through Canvas.
 
 ## What You Will Practice
 
@@ -32,7 +32,7 @@ You will draft or revise the executive summary, business problem, data source de
 
 ## Recommended Workflow
 
-1. Open the notebook in Codespaces or local Jupyter.
+1. Open the notebook in Codespaces, or in local Jupyter if you are using the optional local path.
 2. Work through the project refinement prompts.
 3. Revisit your ABT, documentation, and analysis results.
 4. Strengthen explanations that are vague or unsupported.
