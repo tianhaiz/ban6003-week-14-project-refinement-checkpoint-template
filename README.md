@@ -3,7 +3,7 @@
 **BAN 6003: Data Management and Analytics Integration**  
 **Week 14 GitHub Template**
 
-This repository contains the notebooks, data files, environment files, and local check scripts for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
+This repository contains the refinement notebook and report folder for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
 
 ## Canvas / LMS Lab Guide
 
@@ -13,9 +13,11 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 
 - `notebooks/module14_project_refinement_data_management_analytics.ipynb`
 
-## Required Files
+## Data and Outputs
 
 - No local data files are required.
+- Complete the checkpoint using evidence from your semester project repository.
+- Save the required audit as `reports/project_readiness_audit_module14.csv`.
 
 ## How to Work
 
@@ -27,13 +29,6 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 6. Complete all `Your Turn`, exercise, checkpoint, and reflection sections.
 7. Save your notebooks and required outputs.
 8. Submit your GitHub repository link through Canvas.
-
-## Completion Check
-
-Your instructor may run a local completion and reproducibility check after submission. The check is designed to support the automatic portion of the lab grade. It verifies that required files exist, notebooks run when possible, marked code cells have real code, required output-producing cells have output after execution, and written response placeholders have been replaced.
-
-The check does not evaluate the quality of your interpretation. Your instructor may grade the remaining portion manually using the assignment rubric.
-
 
 ## Submit
 
