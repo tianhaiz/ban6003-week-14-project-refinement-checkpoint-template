@@ -3,5 +3,6 @@ numpy
 matplotlib
 scikit-learn
 nycflights13
+setuptools<81
 nbformat
 ipykernel
