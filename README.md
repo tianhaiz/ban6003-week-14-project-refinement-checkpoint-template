@@ -22,7 +22,7 @@ The notebook `notebooks/module14_final_report_clinic.ipynb` contains:
 - Optional, but strongly recommended. Plan about 1.5-2 hours.
 - Keep this notebook open next to your own final project repository. After each demo, check your own report for the same problem.
 - No answers are required. Every code cell already runs; the whole notebook runs in well under a minute.
-- Copy the self-check cell from Part 4 into your project. It checks the required files, the HTML report, large files, `.env`, and the AI Use Disclosure cell.
+- Copy the self-check cell from Part 4 into your project. It checks the required files, large files, `.env`, and the AI Use Disclosure cell (an HTML copy of the report is optional).
 
 ## Data
 
